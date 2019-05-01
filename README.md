@@ -1,4 +1,10 @@
-# Create React Express App
+#Google Books Search
+
+This app allows you to search the Google Books API and view informaion on a book. If you want you can save the book to the Saved page to view later.
+
+I hope you enjoy!
+
+### Try it out [Here](https://garrett-books.herokuapp.com/)
 
 ## About This Boilerplate
 
