@@ -1,4 +1,4 @@
-#Google Books Search
+##Google Books Search
 
 This app allows you to search the Google Books API and view informaion on a book. If you want you can save the book to the Saved page to view later.
 
