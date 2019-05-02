@@ -14,7 +14,7 @@ function SearchCard(props) {
                 className="form-control"
                 value={props.value}
                 onChange={props.onChange}
-                placeholder="Example: Harry Potter"
+                placeholder="Example: Moby Dick"
                 required
               />
             </div>
